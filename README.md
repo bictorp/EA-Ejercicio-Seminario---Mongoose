@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # EA Node.js + TypeScript + Mongoose
-
+Se ha implementado el usa de IA
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu sistema:
